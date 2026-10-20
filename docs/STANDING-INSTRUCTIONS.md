@@ -10,14 +10,16 @@
 
 2. **Follow Alfred exactly.** Follow Alfred's original text exactly — every line and detail, no improvising. "Details matter." Sources:
    - `/workspace/dacaveman-book-scout/alfred-original.md`
-   - Repo `gmenaldo/dacaveman-skit` → `script/dacaveman-skit.md`
+   - Repo `gmenaldo/dacaveman-skit` → `script/dacaveman-skit.md` (clean original — do not reformat)
    - Alfred's reference clips: `/workspace/alfred-clips/`
 
-3. **Cavemen look.** Cavemen must look like real prehistoric cavemen, **NOT** white people: heavy brow ridge, wide flat nose, deep-set eyes, dark weathered sun-browned skin, thick beard/brows, sharp teeth, long razor-sharp ancient nails; consistent across shots.
+3. **Two script copies.** The clean original stays `script/dacaveman-skit.md`. The working production copy is `script/DaCaveman-Screenplay.pdf` (fountain and markdown match it). Approved format on the working copy only: announcer `(ON TV)`, the television celebration montage, the nail and feet inserts, and `CONTINUOUS` into the salon. Those marks are not a shot list and not a generation order.
 
-4. **Audio and performance.** Alfred's cloned voice on every line (Dan deeper), music ducked under dialogue, SFX, facial expressions; transformations feel like a magical illusion.
+4. **Cavemen look.** Cavemen must look like real prehistoric cavemen, **NOT** white people: heavy brow ridge, wide flat nose, deep-set eyes, dark weathered sun-browned skin, thick beard/brows, sharp teeth, long razor-sharp ancient nails; consistent across shots.
 
-5. **Stack and hardware.** M2 local open-source stack only, no paid credits; no Keystone/Tahoe for video work except Chief of Staff's voice step reading Tahoe Chatterbox `:8793`; leave Ollama running; PG-13.
+5. **Audio and performance.** Alfred's cloned voice on every line (Dan deeper), music ducked under dialogue, SFX, facial expressions; transformations feel like a magical illusion.
+
+6. **Stack and hardware.** M2 local open-source stack only, no paid credits; no Keystone/Tahoe for video work except Chief of Staff's voice step reading Tahoe Chatterbox `:8793`; leave Ollama running; PG-13.
 
 ## Notes for producers
 
