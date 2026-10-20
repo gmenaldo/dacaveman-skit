@@ -1,6 +1,10 @@
 # DaCaveman
 
-Written by Alfred Gause. Format only. No spoken line is rewritten. The one "Dave" in the original is Tom.
+Working production copy. Written by Alfred Gause.
+
+The clean original is [dacaveman-skit.md](dacaveman-skit.md). Do not reformat that file.
+
+Approved format only: the announcer is marked (ON TV), the television celebration is a montage, the nails and feet are inserts, and the move into the salon is CONTINUOUS. None of those marks is a generation order. Spoken lines are unchanged. The one "Dave" in the original is Tom.
 
 ## Scene 1 — Mountain treehouse
 
