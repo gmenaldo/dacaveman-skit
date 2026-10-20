@@ -4,6 +4,8 @@ Written by Alfred Gause. Format only. No spoken line is rewritten. The one "Dave
 
 ## Scene 1 — Mountain treehouse
 
+<p align="right">FADE IN:</p>
+
 **EXT. MOUNTAIN — TREEHOUSE — DAY**
 
 A house is built into a tree on the side of a mountain. Tall windows open onto the living room: vaulted ceilings, chandeliers, clean wooden floors, luxurious couches, and a large flat-screen television.
@@ -24,6 +26,8 @@ A rope dangles beside him. It looks as if the rope is holding him. It is not. Hi
 
 ## Scene 2 — The news and the birthday call
 
+<p align="right">DISSOLVE TO:</p>
+
 **INT. DAN'S HOUSE — LIVING ROOM — DAY**
 
 Dan sits in his chair, in pajamas, listening to the news. Past his right shoulder: a large fireplace, an old medieval crock pot, and a pig on a rotisserie.
@@ -39,6 +43,8 @@ He pauses.
 > be you!
 
 El Salvadorian, Jamaican, Chinese, Ukrainian, and Russian immigrants dance in celebration across the world.
+
+<p align="right">CUT TO:</p>
 
 **INT. TOM'S PLACE — DAY**
 
@@ -66,9 +72,13 @@ Tom sits watching the same broadcast. He blinks, surprised. He calls his father.
 
 ## Scene 3 — The ride
 
+<p align="right">CUT TO:</p>
+
 **EXT. DAN'S HOUSE — DAY**
 
 Tom honks. Dan comes out dressed for the winter: heavy coat, hat, boots, gloves, and scarf. Hair grows out of the hat. His beard is long. He gets in. They drive off.
+
+<p align="right">CUT TO:</p>
 
 **INT. CAR — DAY**
 
@@ -116,9 +126,15 @@ Tom honks. Dan comes out dressed for the winter: heavy coat, hat, boots, gloves,
 
 > Just sit back and enjoy the show.
 
+<p align="right">CUT TO:</p>
+
+**EXT. NAIL SALON — DAY**
+
 They arrive at the shop.
 
 ## Scene 4 — The nail salon
+
+<p align="right">CUT TO:</p>
 
 **INT. NAIL SALON — DAY**
 
@@ -245,3 +261,5 @@ The employees work on the nails, uncomfortable. The owner checks in a woman. She
 **Cavewoman**
 
 > It's my birthday!
+
+<p align="right">FADE OUT.</p>
