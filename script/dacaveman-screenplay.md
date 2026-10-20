@@ -32,9 +32,7 @@ A rope dangles beside him. It looks as if the rope is holding him. It is not. Hi
 
 Dan sits in his chair, in pajamas, listening to the news. Past his right shoulder: a large fireplace, an old medieval crock pot, and a pig on a rotisserie.
 
-**On the television**
-
-**News Announcer**
+**News Announcer (on TV)**
 
 > This just in, the illegal Alien Ban has been lifted. All aliens in the U.S. and across the globe are considered legal. You are all free to—
 
@@ -42,7 +40,15 @@ He pauses.
 
 > be you!
 
-El Salvadorian, Jamaican, Chinese, Ukrainian, and Russian immigrants dance in celebration across the world.
+**MONTAGE — ON THE TELEVISION**
+
+El Salvadorian immigrants dance.
+
+Jamaican immigrants dance.
+
+Chinese, Ukrainian, and Russian immigrants dance across the world.
+
+**END MONTAGE**
 
 <p align="right">CUT TO:</p>
 
@@ -136,7 +142,7 @@ They arrive at the shop.
 
 <p align="right">CUT TO:</p>
 
-**INT. NAIL SALON — DAY**
+**INT. NAIL SALON — CONTINUOUS**
 
 A wide picture window. Raised leather chairs with running foot baths, and the same chairs on the lower level. A display of nail tips. A television shows the Illegal Alien Act decision.
 
@@ -182,7 +188,17 @@ Tom breathes and transforms. Sackcloth covers his chest like a tank top and cove
 
 Dan breathes and transforms. Sackcloth covers only his waist to his upper thighs. Most of his body is exposed, including his chest hair. People outside run to the glass.
 
-Tom's fingernails are as long as his fingers. His toenails are prehistorically thick.
+**INSERT — TOM'S HANDS AND FEET**
+
+His fingernails are as long as his fingers. His toenails are prehistorically thick.
+
+**BACK TO SCENE**
+
+**INSERT — DAN'S FEET**
+
+His ancient toenails are in the running water.
+
+**BACK TO SCENE**
 
 **Dan**
 
