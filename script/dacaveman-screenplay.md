@@ -1,10 +1,10 @@
 # DaCaveman
 
-Approved working copy, 20 October 2026. Written by Alfred Gause.
+Approved working copy, 20 October 2026. Revised 2:26 AM ET by George's standing orders in `docs/STANDING-ORDERS-2026-10-20.md`. Written by Alfred Gause.
 
 The clean original is [dacaveman-skit.md](dacaveman-skit.md). Do not reformat that file.
 
-Approved format only: the announcer is marked (ON TV), the television celebration is a montage, the nails and feet are inserts, and the move into the salon is CONTINUOUS. None of those marks is a generation order. Spoken lines are unchanged. The one "Dave" in the original is Tom. This copy matches the Fountain and the PDF, including two original visuals restored on 20 October 2026: Employee Two's look of fear and confusion, and the guests leaving abruptly.
+Spoken lines are Alfred's, except one cut George ordered: Tom does not say "Watch me!" His line is "Everything, Pop." The PDF is stale. Do not use it.
 
 ## Scene 1 — Mountain treehouse
 
@@ -150,9 +150,11 @@ They arrive at the shop.
 
 **INT. NAIL SALON — CONTINUOUS**
 
-A wide picture window. In front of it, leather chairs raised on a step. Each chair has a spa for the feet, with water running. The same kind of chairs sit on the lower level. A display holds nail tips in various colors. A television shows the government's decision on the Illegal Alien Act.
+A wide picture window. In front of it, leather chairs raised on a step. Each chair has a spa for the feet, with water running. The same kind of chairs sit on the lower level. A display holds nail tips in various colors.
 
-Dan and Tom check in at the front desk. The ancient, long, sharp claws on their hands and feet are covered. Two people stand behind them, dressed in shorts and T-shirts. The shop worker behind the counter wears a blue nurse outfit. Her hair is short, dark, and medium-long.
+The television on the wall is already playing the Caveman News broadcast from Scene 2. The same announcer is on camera. The bug reads CAVEMAN NEWS. The story is the ban being lifted. The lower third is readable. The broadcast is playing, not a still. It stays on, low under the room, the whole time they are in the salon.
+
+Dan and Tom walk in with that broadcast behind them. They check in at the front desk. The ancient, long, sharp claws on their hands and feet are covered. Two people stand behind them, dressed in shorts and T-shirts. The shop worker behind the counter wears a blue nurse outfit. Her hair is short, dark, and medium-long.
 
 **Shop Worker**
 
@@ -166,7 +168,7 @@ Dan and Tom check in at the front desk. The ancient, long, sharp claws on their 
 
 > Have a seat right here.
 
-She directs them to the raised chairs at the picture window. They sit. People outside begin to gather at the window, looking into the Spa.
+She directs them to the raised chairs at the picture window. They sit. Dan takes off the hat, scarf, gloves, and coat. He still has a shirt on. Tom never takes his flannel shirt off. People outside begin to gather at the window, looking into the Spa. The Caveman News broadcast is still playing behind them.
 
 **Dan**
 
@@ -188,21 +190,17 @@ Tom looks at his dad.
 
 **Tom**
 
-> Everything, pop. Watch me!
+> Everything, Pop.
 
-Tom breathes deeply and transforms into his normal self. Sackcloth covers his chest like a tank top, and covers him from the waist to his upper thighs. The nails on his feet and hands are exposed. People let out a gasp.
+Tom does not strip. He does not transform.
 
-Dan takes a deep breath and transforms. He wears a sackcloth. Most of his body is exposed, including his chest hair. The cloth covers only his waist down to his upper thighs. People outside run to the windows in a panic. Surprise is on their faces.
+Dan rips his own shirt off in one move. His chest, shoulders, and arms are bare. A cloth covers only his waist down to his upper thighs. He is fully shirtless. Tom's flannel stays on. Tom's jeans stay on.
 
-**INSERT — TOM'S HANDS AND FEET**
+People let out a gasp. People outside run to the windows in a panic. Surprise is on their faces.
 
-His fingernails are as long as his fingers. His toenails are prehistorically thick.
+**INSERT — DAN'S HANDS AND FEET**
 
-**BACK TO SCENE**
-
-**INSERT — DAN'S FEET**
-
-His ancient toenails are in the running water.
+His fingernails are as long as his fingers. His toenails are prehistorically thick, in the running water.
 
 **BACK TO SCENE**
 
@@ -210,7 +208,7 @@ His ancient toenails are in the running water.
 
 > Ah, it's good to finally give my feet some air!
 
-People outside the store take videos and pictures of Tom and Dan. Tom looks at his father in amazement. He is still looking.
+People outside the store take videos and pictures of Tom and Dan. Tom, still in his flannel, looks at his father in amazement. He is still looking.
 
 **Dan**
 
@@ -225,6 +223,8 @@ Two guests run out.
 **Dan**
 
 > My fir got me covered.
+
+He pats his chest hair. He is still the only one without a shirt.
 
 The person next to them throws up a little in their mouth. Employee One and Employee Two come out to work on the two of them. They notice people getting up and abruptly leaving. They stop in front of Tom and Dan.
 
@@ -280,7 +280,7 @@ He yells through a bullhorn toward the back of the shop.
 
 > What you mean? We can close the shop for the week on this ticket alone!
 
-Employee One and Employee Two work on Tom and Dan's nails. They are uncomfortable. The owner checks in another woman. She sees the two cavemen, takes a deep breath, and transforms into herself. Sackcloth covers her chest, and covers her from the waist to the middle of her thighs. The nails on her hands and feet are the same as Tom's and Dan's.
+Employee One and Employee Two work on Tom and Dan's nails. They are uncomfortable. Dan is still shirtless. Tom is still in his flannel. The owner checks in another woman. She sees the two cavemen, takes a deep breath, and transforms into herself. Sackcloth covers her chest, and covers her from the waist to the middle of her thighs. The nails on her hands and feet are the same as Tom's and Dan's. She stays fully covered.
 
 **Cavewoman**
 
