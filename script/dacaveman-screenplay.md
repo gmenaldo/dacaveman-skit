@@ -1,6 +1,6 @@
 # DaCaveman
 
-Working production copy. Written by Alfred Gause.
+Approved working copy, 20 October 2026. Written by Alfred Gause.
 
 The clean original is [dacaveman-skit.md](dacaveman-skit.md). Do not reformat that file.
 
