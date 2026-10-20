@@ -2,6 +2,8 @@
 
 Open-source, self-hosted pipeline for turning the skit into video. No paid APIs required.
 
+The clean original is `script/dacaveman-skit.md`. The working screenplay is `script/DaCaveman-Screenplay.pdf`. Its `(ON TV)` cue, celebration montage, nail inserts, and `CONTINUOUS` salon heading are formatting. Do not treat them as a generation order.
+
 ## Recommended stack
 
 1. **Toonflow** (https://github.com/HBAI-Ltd/Toonflow-app) — open-source AI short-drama platform. Handles script import, storyboarding, character and scene asset management, image generation, and video generation on an infinite canvas. Best fit for a multi-scene comedy skit.
@@ -11,7 +13,7 @@ Open-source, self-hosted pipeline for turning the skit into video. No paid APIs 
 
 ## Workflow
 
-1. Import the script from `script/dacaveman-skit.md` into Toonflow.
+1. Import the clean original from `script/dacaveman-skit.md`. Use the screenplay to read the approved format. Do not generate a clip from a montage, insert, or CONTINUOUS heading.
 2. Define characters: Dan DaCaveman, Tom DaCaveman, shop workers, owner, female cavewoman.
 3. Generate character reference images first (consistent faces across scenes).
 4. Break each scene into shots; write prompts per shot.
