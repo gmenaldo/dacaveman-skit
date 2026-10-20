@@ -1,17 +1,22 @@
 # DaCaveman finish checklist
 
-For Chief of Staff. 20 October 2026.
+**HANDOFF TO CHIEF OF STAFF. Analysis frozen 20 October 2026.**
 
-This is not a new shot list. Do not regenerate the 81-shot plan. Do not rewrite the screenplay. Start the edit the same day. Generate nothing until the verify step is done.
+No more picture analysis. Do not reopen the truck start frames. They are the wrong images and they are not assembly material.
 
-**Read from:** the approved working copy, [DaCaveman-Screenplay.pdf](../script/DaCaveman-Screenplay.pdf).  
-**Lines from:** the clean original, [dacaveman-skit.md](../script/dacaveman-skit.md). His wording stays, including "allusion," "sittin," "fir," and "twenty-fours." Dave is Tom. Dan is the father. Tom is the son.
+Recover Alfred's five original Kling movies and start the edit. In the repo they are only short aliases: `clip1.mov` through `clip5.mov`. On the disks, search by the **original long Kling filenames** first. Do not stop when a folder has no `clip1.mov`. A file counts only when its size and sha256 match the table below. Then copy it to the alias and cut.
 
-**Status rule:** nothing below is EXISTING. The picture files were not opened here. A manifest is not an inspection.
+Read the approved screenplay for order. Read `script/dacaveman-skit.md` for the words. Do not regenerate the 81-shot plan. Do not rewrite the screenplay. Generate nothing until this cut shows a real hole.
+
+**Screenplay:** [DaCaveman-Screenplay.pdf](../script/DaCaveman-Screenplay.pdf).  
+**Lines:** [dacaveman-skit.md](../script/dacaveman-skit.md). His wording stays, including "allusion," "sittin," "fir," and "twenty-fours." Dave is Tom. Dan is the father. Tom is the son.
+
+**Status rule:** nothing below is EXISTING until the hash matches on the machine that has the file.
 
 ## Verify first, then edit
 
-On the machine that holds the media, check these files by size and sha256. The list is from `gmenaldo/cloud-render-pipeline` `assets/MANIFEST.md`. The binaries are not in git. Claimed box path: `/workspace/alfred-clips/`.
+
+On the M2 and on Ubuntu, search for the original long Kling download names, not only `clip1.mov`–`clip5.mov`. Those short names are the aliases in `gmenaldo/cloud-render-pipeline` `assets/MANIFEST.md`. The long names are not written in the repo. Claimed alias path after a match: `/workspace/alfred-clips/`. The binaries are not in git.
 
 | File | Claimed size | Claimed sha256 | Claimed length | Manifest says it shows | Status |
 |---|---|---|---|---|---|
