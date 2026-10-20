@@ -1,5 +1,7 @@
 # DaCaveman Skit: Production Packet
 
+**Not a screenplay format.** The working screenplay's `(ON TV)` cue, celebration montage, nail inserts, and `CONTINUOUS` salon heading are approved formatting only. They are not this packet's generation order. Spoken lines stay with the clean original, `script/dacaveman-skit.md`.
+
 **Tone:** deadpan comedy. Dan treats absurd things (hanging off a mountain, stripping down in a spa) as completely normal. Everyone else overreacts. The laughs come from holding on reactions.
 **Target runtime:** about 4 to 5 minutes, roughly 75 shots of 3 to 5 seconds each.
 **Stack:** Toonflow handles script import, storyboarding, and the character and location library. ComfyUI runs the models. Wan 2.2 is the quality pick for hero shots and transformations. LTX-Video is the fast pick for drafts, plates, and simple reaction shots.
