@@ -4,7 +4,7 @@ Approved working copy, 20 October 2026. Written by Alfred Gause.
 
 The clean original is [dacaveman-skit.md](dacaveman-skit.md). Do not reformat that file.
 
-Approved format only: the announcer is marked (ON TV), the television celebration is a montage, the nails and feet are inserts, and the move into the salon is CONTINUOUS. None of those marks is a generation order. Spoken lines are unchanged. The one "Dave" in the original is Tom.
+Approved format only: the announcer is marked (ON TV), the television celebration is a montage, the nails and feet are inserts, and the move into the salon is CONTINUOUS. None of those marks is a generation order. Spoken lines are unchanged. The one "Dave" in the original is Tom. This copy matches the Fountain and the PDF, including two original visuals restored on 20 October 2026: Employee Two's look of fear and confusion, and the guests leaving abruptly.
 
 ## Scene 1 — Mountain treehouse
 
@@ -12,13 +12,13 @@ Approved format only: the announcer is marked (ON TV), the television celebratio
 
 **EXT. MOUNTAIN — TREEHOUSE — DAY**
 
-A house is built into a tree on the side of a mountain. Tall windows open onto the living room: vaulted ceilings, chandeliers, clean wooden floors, luxurious couches, and a large flat-screen television.
+A house is built into a tree on the side of a mountain. Tall windows open onto the living room: vaulted ceilings, chandeliers, clean wooden floors, luxurious couches, and a large flat-screen television mounted on the wall.
 
 **Dan DaCaveman** hangs off the side of the house. He is five foot five, strong and chiseled, with a superior muscular build, bright eyes in deep sockets, a nice face, thick eyebrows, a beard and goatee, and sharp teeth. His legs and thighs are heavily muscled. A cloth covers his waist, his buttocks, and his genitals. His fingernails and toenails are super long, razor sharp, thick, and ancient.
 
 A rope dangles beside him. It looks as if the rope is holding him. It is not. His toenails are embedded in the tree. He is putting the finishing touches on the house.
 
-**Tom DaCaveman** stands below and stares up at his father.
+**Tom DaCaveman**, the other caveman, stands below and stares up at his father.
 
 **Tom**
 
@@ -58,7 +58,7 @@ Chinese, Ukrainian, and Russian immigrants dance across the world.
 
 **INT. TOM'S PLACE — DAY**
 
-Tom sits watching the same broadcast. He blinks, surprised. He calls his father.
+Tom sits watching the same broadcast. He blinks. The look on his face is surprise. He calls his father.
 
 **Tom**
 
@@ -86,7 +86,7 @@ Tom sits watching the same broadcast. He blinks, surprised. He calls his father.
 
 **EXT. DAN'S HOUSE — DAY**
 
-Tom honks. Dan comes out dressed for the winter: heavy coat, hat, boots, gloves, and scarf. Hair grows out of the hat. His beard is long. He gets in. They drive off.
+Tom arrives and honks the horn. Dan comes out dressed for the winter: heavy coat, hat, boots, gloves, and scarf. His hair is growing out of his hat. His beard is long. He hops in the car. They drive off.
 
 <p align="right">CUT TO:</p>
 
@@ -103,6 +103,8 @@ Tom honks. Dan comes out dressed for the winter: heavy coat, hat, boots, gloves,
 **Tom**
 
 > Pop, I wouldn't ask you to go out if it wasn't ok.
+
+Dan looks serious.
 
 **Dan**
 
@@ -148,9 +150,9 @@ They arrive at the shop.
 
 **INT. NAIL SALON — CONTINUOUS**
 
-A wide picture window. Raised leather chairs with running foot baths, and the same chairs on the lower level. A display of nail tips. A television shows the Illegal Alien Act decision.
+A wide picture window. In front of it, leather chairs raised on a step. Each chair has a spa for the feet, with water running. The same kind of chairs sit on the lower level. A display holds nail tips in various colors. A television shows the government's decision on the Illegal Alien Act.
 
-Their claws are covered. Two people in shorts and T-shirts stand behind them. The shop worker wears a blue nurse outfit. Her hair is short, dark, and medium-long.
+Dan and Tom check in at the front desk. The ancient, long, sharp claws on their hands and feet are covered. Two people stand behind them, dressed in shorts and T-shirts. The shop worker behind the counter wears a blue nurse outfit. Her hair is short, dark, and medium-long.
 
 **Shop Worker**
 
@@ -164,7 +166,7 @@ Their claws are covered. Two people in shorts and T-shirts stand behind them. Th
 
 > Have a seat right here.
 
-They sit at the window. People gather outside.
+She directs them to the raised chairs at the picture window. They sit. People outside begin to gather at the window, looking into the Spa.
 
 **Dan**
 
@@ -188,9 +190,9 @@ Tom looks at his dad.
 
 > Everything, pop. Watch me!
 
-Tom breathes and transforms. Sackcloth covers his chest like a tank top and covers him from the waist to his upper thighs. His nails are exposed. People gasp.
+Tom breathes deeply and transforms into his normal self. Sackcloth covers his chest like a tank top, and covers him from the waist to his upper thighs. The nails on his feet and hands are exposed. People let out a gasp.
 
-Dan breathes and transforms. Sackcloth covers only his waist to his upper thighs. Most of his body is exposed, including his chest hair. People outside run to the glass.
+Dan takes a deep breath and transforms. He wears a sackcloth. Most of his body is exposed, including his chest hair. The cloth covers only his waist down to his upper thighs. People outside run to the windows in a panic. Surprise is on their faces.
 
 **INSERT — TOM'S HANDS AND FEET**
 
@@ -208,7 +210,7 @@ His ancient toenails are in the running water.
 
 > Ah, it's good to finally give my feet some air!
 
-People film them. Tom stares at his father in amazement.
+People outside the store take videos and pictures of Tom and Dan. Tom looks at his father in amazement. He is still looking.
 
 **Dan**
 
@@ -224,7 +226,7 @@ Two guests run out.
 
 > My fir got me covered.
 
-The person beside them throws up a little in their mouth. Two employees come out, see people leaving, and stop in front of them.
+The person next to them throws up a little in their mouth. Employee One and Employee Two come out to work on the two of them. They notice people getting up and abruptly leaving. They stop in front of Tom and Dan.
 
 **Employee One**
 
@@ -232,17 +234,19 @@ The person beside them throws up a little in their mouth. Two employees come out
 
 He jumps back.
 
+Employee Two has a look of fear and confusion.
+
 **Employee Two**
 
 > What the hell am I looking at?
 
-Employee One walks in a circle.
+Employee One panics and walks in a circle.
 
 **Employee One**
 
 > We gotta close the shop! We gotta close the shop!
 
-The owner runs out and almost falls.
+The owner runs out in haste and almost falls.
 
 **Owner**
 
@@ -276,7 +280,7 @@ He yells through a bullhorn toward the back of the shop.
 
 > What you mean? We can close the shop for the week on this ticket alone!
 
-The employees work on the nails, uncomfortable. The owner checks in a woman. She sees the cavemen, breathes, and transforms. Sackcloth covers her chest and her waist to the middle of her thighs. Her nails match theirs.
+Employee One and Employee Two work on Tom and Dan's nails. They are uncomfortable. The owner checks in another woman. She sees the two cavemen, takes a deep breath, and transforms into herself. Sackcloth covers her chest, and covers her from the waist to the middle of her thighs. The nails on her hands and feet are the same as Tom's and Dan's.
 
 **Cavewoman**
 

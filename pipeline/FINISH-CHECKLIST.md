@@ -2,6 +2,8 @@
 
 **HANDOFF TO CHIEF OF STAFF. Analysis frozen 20 October 2026.**
 
+Read [CHIEF-OF-STAFF-HANDOFF.md](CHIEF-OF-STAFF-HANDOFF.md) before this checklist. That file is the assignment. This file is still the edit order.
+
 No more picture analysis. Do not reopen the truck start frames. They are the wrong images and they are not assembly material.
 
 Recover Alfred's five original Kling movies and start the edit. In the repo they are only short aliases: `clip1.mov` through `clip5.mov`. On the disks, search by the **original long Kling filenames** first. Do not stop when a folder has no `clip1.mov`. A file counts only when its size and sha256 match the table below. Then copy it to the alias and cut.
