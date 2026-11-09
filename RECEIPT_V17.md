@@ -52,3 +52,8 @@ Big ATL, Fayetteville, Georgia Good morning, Legends Good morning, Legends, Lege
 ```
 Big ATL, Fayetteville, Georgia Good morning, legends Good morning legends, legends don't sleep We know the thing we do, we do it well Cause you know the situation We all in this complication Dirted south to the east Legends don't sleep Good morning legends Legends don't sleep We know the thing we do, we do it well Cause you know the situation We all in this complication Legends Legends don't sleep We know the thing we do, we do it well Cause you know the situation We all in this complication Legends Legends don't sleep We know the thing we do, we do it well We do it well Cause you know the situation We all in this complication Legends don't sleep We do it well You know the situation We all in this complication Good morning legends Legends don't sleep We know the thing we do, we do it well Good morning legends
 ```
+
+## GitHub
+- Branch: legends-v17
+- Commit: c99236b2957e5ea0c50aafbcab0fd69f95e3e992
+- Commit-pinned raw MP3: https://raw.githubusercontent.com/gmenaldo/dacaveman-skit/c99236b2957e5ea0c50aafbcab0fd69f95e3e992/Nothing_New_Foo_Legends_V17.mp3
