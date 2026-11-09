@@ -69,3 +69,8 @@
 - No stage-direction tag words sung.
 - Model did **not** invent unrelated vocabulary much; instead it **repeated chorus fragments** (Morning legends / we always grind / Dirty South / we do it well) across long instrumental gaps instead of delivering verse/bridge/outro lines.
 - Missing names/lines: Da-Corrie, Alfred, George, Melissa, Different places, One identity, Morph into one, Nothing new foo, Same old thing, You know the thing we do.
+
+## GitHub
+- Branch: nothing-new-foo-v22
+- Commit: dcea770aff4b23dbc701e7717ad58e3b95bb11b9
+- Commit-pinned raw: https://raw.githubusercontent.com/gmenaldo/dacaveman-skit/dcea770aff4b23dbc701e7717ad58e3b95bb11b9/Nothing_New_Foo_V22.mp3
