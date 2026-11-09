@@ -71,3 +71,8 @@ Big Egg, TL, Fayetteville, Georgia, Trillie, guest house. Good morning, legends.
 - Lyrics from GEORGE_T71U_LYRICS_VERBATIM.txt word-for-word; cue lines (bass groove)/(drums enter)/(keys slide in) dropped; chorus written out where marked repeat; AceStep section tags with requested descriptors.
 - Caption append ', three distinct rap voices, A major' kept (263 chars). No artist names.
 - Bonvoy: NO clear ASR hit (near-misses like "bond for a member" / take2 "fine boy remember").
+
+## GitHub
+- Branch: legends-v15
+- Commit: 1bb9006cc6802ebd4dbc75a7522da4eb435d785e
+- Commit-pinned raw MP3: https://raw.githubusercontent.com/gmenaldo/dacaveman-skit/1bb9006cc6802ebd4dbc75a7522da4eb435d785e/Nothing_New_Foo_Legends_V15.mp3
