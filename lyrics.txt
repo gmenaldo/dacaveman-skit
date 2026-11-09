@@ -1,30 +1,30 @@
-[intro - groove opens cold, heavy 808 and boom-bap drums, crowd noise, riser into words, then slow spaced rap words, very clear enunciation]
+[intro]
 Big A-T-L...
 Fay-et-ville... Georgia...
 Dir-ty... South!
 Morning... legends!
 
-[chorus - catchy sing-along hook, playful cheeky rap, crowd sings back, scratches]
+[chorus]
 Morning legends. We don't sleep.
 You know the thing we do? We do it well.
 Cause you know the situation.
 We all in this complication.
 We be about it!
 
-[verse - deep gritty rap, sparse, space between lines, record scratch into verse]
+[verse]
 Stacks on stacks, permutations, no hesitation.
 Dirty South. Fay-et-ville. Five star, not Motel 6.
 Mud on the floor — were you born in a barn?
 Plates on the desk — your mama don't work here!
 
-[chorus - catchy sing-along hook, playful cheeky rap, crowd sings back, scratches]
+[chorus]
 Morning legends. We don't sleep.
 You know the thing we do? We do it well.
 Cause you know the situation.
 We all in this complication.
 We be about it!
 
-[verse - deep gritty rap roll call, one name per line, clear, scratch into roll call]
+[verse]
 Da-Corrie got the plan.
 Al-fred at the door.
 George... on the night audit.
@@ -38,18 +38,18 @@ Pete check the rooms.
 Abby at the bar.
 Michael Johnson — that's a star.
 
-[bridge - festival drop, big open drums, crowd noise, riser into drop]
+[bridge]
 Different places, one identity.
 We morph into one.
 One team, one shift, this is it.
 
-[breakdown - drums drop out, 808 and claps, crowd ad-libs, synth squiggle]
+[breakdown]
 Dirty South!
 Fay-et-ville!
 We be about it!
 We do it well!
 
-[outro - final catchy sing-along hook, playful cheeky rap, crowd chants, scratches, groove keeps rolling, fade out]
+[outro]
 Morning legends. We don't sleep.
 You know the thing we do? We do it well.
 We be about it!
