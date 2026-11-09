@@ -61,3 +61,10 @@ Big ATL Fayetteville, Georgia Dirt Top South Morning, Morning Legends You know t
 ```
 Big ATL Fayetteville, Georgia Dirt Top South Morning, morning legends You know the thing we do, we do it well We be about it Stacks on stacks, permutations No hesitation Dirt is out, Fayetteville Five star, not motel store When you're born in a barn, plates on the disk Your mama don't work here Morning, legends, we don't sleep You know the thing we do, we do it well Cause you know the situation We all in this complication We be about it We be a quarry, got the plan Alfred at the door, George on the night audit Melissa at the desk, Maggie keeping fresh Neoprene the dingo, the extra mile Tracy on the phone, bad bringing home P-check the rules, happy at the bar Michael Johnson, that's a star Different places, one identity We more fit with one, one team One team, one shiver This is it, Dirty South We do it well We do it well We do it well Different places, one identity We more fit with one, one team One shift, this is it, Dirty South Say it, Phil We be about it We do it well Morning, legends, we don't sleep You know the thing we do, we do it well We be about it We do it well Morning, legends, we don't sleep You know the thing we do, we do it well We be about it We be about it
 ```
+
+## GitHub
+- Branch: legends-v20
+- Commit: a1b57b833b5d5dcd352b91a114741230c5eb3630
+- Commit-pinned raw MP3: https://raw.githubusercontent.com/gmenaldo/dacaveman-skit/a1b57b833b5d5dcd352b91a114741230c5eb3630/Nothing_New_Foo_Legends_V20.mp3
+- Branch raw MP3: https://raw.githubusercontent.com/gmenaldo/dacaveman-skit/legends-v20/Nothing_New_Foo_Legends_V20.mp3
+- MAIN take: barefix
