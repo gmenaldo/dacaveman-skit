@@ -117,3 +117,8 @@ Counts: landed 19 / garbled 7 / missing 3
 ## Leakage / invented
 - No intro/verse/chorus/bridge/drop/break/raspy/vocal/outro tags sung.
 - DIRTY SOUF never landed clean (DottySauce/Dardisoff). Morning legends often "Born in legends". Alfred "doorknob". Morph≈"More into one". Nothing new≈"Nothing new for/fool".
+
+## GitHub
+- Branch: v25
+- Commit: 3b7d9fa1017f2ecf12de1902aae6478b630ba38b
+- Commit-pinned raw: https://raw.githubusercontent.com/gmenaldo/dacaveman-skit/3b7d9fa1017f2ecf12de1902aae6478b630ba38b/Nothing_New_Foo_V25.mp3
