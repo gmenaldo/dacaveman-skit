@@ -1,0 +1,15 @@
+{
+  "model": "AceStep_1_5_XL_Turbo_INT8",
+  "duration": 180,
+  "bpm": 100,
+  "keyscale": "A major",
+  "timesignature": 4,
+  "vocal_language": "en",
+  "inference_steps": 8,
+  "guidance_scale": 1,
+  "seed": -1,
+  "format": "mp3",
+  "lyric_guidance_scale_0.5": "NOT SUPPORTED — deAPI v2 music schema has no lyric guidance field; used guidance_scale=1",
+  "lm_temperature_1.0": "NOT SUPPORTED — deAPI v2 music schema has no LM temperature field",
+  "negative_prompt": "NOT SENT — unsupported on music endpoint"
+}

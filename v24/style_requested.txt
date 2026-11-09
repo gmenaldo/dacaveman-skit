@@ -1,0 +1,5 @@
+REQUESTED (378 chars, rejected by API max 300):
+90s golden era boom bap, West Coast G-funk synth leads, hard-hitting 808 sub-bass that rattles car speakers, rapid-fire triplet rap flow mixed with melodic sung hooks, aggressive baritone male voice, multiple male rappers trading verses, raspy ad-libs, crowd noise, turntable scratch transitions between sections, festival house party energy, 100 BPM, punchy dry radio-ready mix
+
+USED (trimmed to API limit):
+90s golden era boom bap, West Coast G-funk synths, hard 808 sub-bass rattling car speakers, rapid-fire triplet rap with melodic hooks, aggressive baritone male, multiple rappers trading verses, raspy ad-libs, crowd noise, turntable scratches, festival house party, 100 BPM, punchy dry radio-ready mix
