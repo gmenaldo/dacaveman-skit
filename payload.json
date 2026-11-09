@@ -1,0 +1,21 @@
+{
+  "endpoint": "POST https://api.deapi.ai/api/v2/audio/music",
+  "content_type": "multipart/form-data",
+  "Authorization": "Bearer ***REDACTED***",
+  "fields": {
+    "model": "AceStep_1_5_XL_Turbo_INT8",
+    "caption": "Dirty South hip-hop, boom bap, 90s, festival energy, heavy 808s, punchy snares, rolling hi-hats, rubbery bass, deep gritty male rap vocals, ad-libs, crowd noise, record scratches, polished mix",
+    "lyrics": "(see lyrics.txt / V21_LYRICS.txt EXACTLY)",
+    "duration": 240,
+    "bpm": 100,
+    "keyscale": "A major",
+    "timesignature": 4,
+    "vocal_language": "en",
+    "inference_steps": 8,
+    "guidance_scale": 1,
+    "seed": -1,
+    "format": "mp3"
+  },
+  "not_supported": ["negative_prompt"],
+  "accepted_optional": ["bpm", "keyscale", "timesignature", "vocal_language"]
+}
