@@ -1,0 +1,13 @@
+{
+  "model": "AceStep_1_5_XL_Turbo_INT8",
+  "duration": 240,
+  "bpm": 100,
+  "keyscale": "A major",
+  "timesignature": 4,
+  "vocal_language": "en",
+  "inference_steps": 8,
+  "guidance_scale": 1,
+  "seed": -1,
+  "format": "mp3",
+  "negative_prompt": "NOT SENT — unsupported by deAPI v2"
+}
