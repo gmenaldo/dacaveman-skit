@@ -53,3 +53,8 @@ Big A.T.L. Fayetteville, Georgia Good morning, let's do it well, good morning, l
 ```
 Big A-T-L, Fayetteville, Georgia Good morning, legend Good morning, legends, legends don't sleep, we do it well, we do it well You know the situation, we all in this complication, legends don't sleep Good morning, legends, legends don't sleep, we know the thing we do, we do it well Cause you know the situation, we all in this complication, dirties after the east, legends don't sleep Good morning, legends, legends don't sleep, we do it well, we do it well You know the situation, we all in this complication, legends don't sleep Legends don't sleep, we do it well, we do it well Good morning, legends don't sleep, we do it well, we do it well You know the situation, we all in this complication, legends don't sleep Good morning, legends, legends don't sleep
 ```
+
+## GitHub
+- Branch: legends-v18
+- Commit: 76a103ff422b33883680474e9f1e6c9b07907952
+- Commit-pinned raw MP3: https://raw.githubusercontent.com/gmenaldo/dacaveman-skit/76a103ff422b33883680474e9f1e6c9b07907952/Nothing_New_Foo_Legends_V18.mp3
