@@ -78,3 +78,8 @@ Counts: landed 18 / garbled 8 / missing 3
 - No intro/chorus/verse/bridge/outro/instrumental/scratch/DJ or negative-list words sung as tags.
 - Chorus often became "we always cry" / "we do it wild"; verse2 Pete/Beth/Abby near-misses; Morphin' to one; Nothing new fool.
 - Melodic oh-oh fills in gaps (not lyric text).
+
+## GitHub
+- Branch: nothing-new-foo-v24
+- Commit: e0b3b4d33383ea65c9ae99f95549749a803b9d7a
+- Commit-pinned raw: https://raw.githubusercontent.com/gmenaldo/dacaveman-skit/e0b3b4d33383ea65c9ae99f95549749a803b9d7a/Nothing_New_Foo_V24.mp3
